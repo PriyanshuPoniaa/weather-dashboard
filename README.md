@@ -8,23 +8,22 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application that allows use
 - Dark/Light mode toggle
 - Clean UI with responsive layout
 - Error handling and loading states
-- 5-day forecast & GeoDB City autocomplete (Optional extras)
 - Built with: React, Node.js, Express, Axios, CSS
 
 ## 🖥️ Live Demo
 
-🌍 [Frontend on Vercel](https://your-vercel-link.vercel.app)  
-🔗 [Backend on Render](https://your-render-api.onrender.com)
+🌍 [Frontend on Vercel](https://weather-dashboard-kappa-seven.vercel.app/)  
+🔗 [Backend on Render](https://weather-dashboard-m465.onrender.com)
 
 ## 📷 Screenshots
 
-![Dashboard Screenshot](./screenshot.png)
+![Dashboard Screenshot](./weather.png)
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, CSS, Axios
 - **Backend:** Node.js, Express
-- **APIs:** OpenWeatherMap, GeoDB (optional)
+- **APIs:** OpenWeatherMap
 
 ## 📦 Getting Started
 
