@@ -1,12 +1,36 @@
-# React + Vite
+# 🌤️ Real-Time Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to search for real-time weather data by city. Built during an Afford Medical coding contest.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time weather info via OpenWeatherMap API
+- Dark/Light mode toggle
+- Clean UI with responsive layout
+- Error handling and loading states
+- 5-day forecast & GeoDB City autocomplete (Optional extras)
+- Built with: React, Node.js, Express, Axios, CSS
 
-## Expanding the ESLint configuration
+## 🖥️ Live Demo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌍 [Frontend on Vercel](https://your-vercel-link.vercel.app)  
+🔗 [Backend on Render](https://your-render-api.onrender.com)
+
+## 📷 Screenshots
+
+![Dashboard Screenshot](./screenshot.png)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, CSS, Axios
+- **Backend:** Node.js, Express
+- **APIs:** OpenWeatherMap, GeoDB (optional)
+
+## 📦 Getting Started
+
+### Clone this repo
+
+```bash
+git clone https://github.com/YOUR_USERNAME/real-time-weather-dashboard.git
+cd real-time-weather-dashboard
+
