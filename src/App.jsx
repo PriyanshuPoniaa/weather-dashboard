@@ -14,7 +14,7 @@ function App() {
     setLoading(true);
     setError("");
     try {
-      const res = await axios.get(`http://localhost:5000/weather?city=${city}`);
+      const res = await axios.get(`https://weather-dashboard-m465.onrender.com/weather?city=${city}`);
       setWeather(res.data);
     } catch (err) {
       setError("Could not fetch weather data. Try again.");
